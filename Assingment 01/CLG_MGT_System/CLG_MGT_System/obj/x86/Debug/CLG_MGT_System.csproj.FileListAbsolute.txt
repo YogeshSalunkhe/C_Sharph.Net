@@ -1,0 +1,11 @@
+F:\Yogesh\C# Net\Assingment 01\CLG_MGT_System\CLG_MGT_System\bin\Debug\CLG_MGT_System.exe
+F:\Yogesh\C# Net\Assingment 01\CLG_MGT_System\CLG_MGT_System\bin\Debug\CLG_MGT_System.pdb
+F:\Yogesh\C# Net\Assingment 01\CLG_MGT_System\CLG_MGT_System\obj\x86\Debug\CLG_MGT_System.frm_Login.resources
+F:\Yogesh\C# Net\Assingment 01\CLG_MGT_System\CLG_MGT_System\obj\x86\Debug\CLG_MGT_System.frm_Add_New_Student_Details.resources
+F:\Yogesh\C# Net\Assingment 01\CLG_MGT_System\CLG_MGT_System\obj\x86\Debug\CLG_MGT_System.Properties.Resources.resources
+F:\Yogesh\C# Net\Assingment 01\CLG_MGT_System\CLG_MGT_System\obj\x86\Debug\CLG_MGT_System.csproj.GenerateResource.Cache
+F:\Yogesh\C# Net\Assingment 01\CLG_MGT_System\CLG_MGT_System\obj\x86\Debug\CLG_MGT_System.exe
+F:\Yogesh\C# Net\Assingment 01\CLG_MGT_System\CLG_MGT_System\obj\x86\Debug\CLG_MGT_System.pdb
+F:\Yogesh\C# Net\Assingment 01\CLG_MGT_System\CLG_MGT_System\obj\x86\Debug\CLG_MGT_System.frm_Veiw_Student_Details.resources
+F:\Yogesh\C# Net\Assingment 01\CLG_MGT_System\CLG_MGT_System\obj\x86\Debug\CLG_MGT_System.csprojResolveAssemblyReference.cache
+F:\Yogesh\C# Net\Assingment 01\CLG_MGT_System\CLG_MGT_System\bin\Debug\CLG_MGT_System.exe.config
